@@ -7,7 +7,7 @@ Este projeto contém implementações da estrutura de dados Fila Sequencial nas 
 Uma fila sequencial é uma estrutura de dados linear que segue o princípio FIFO (First In, First Out), ou seja, o primeiro elemento a ser inserido é o primeiro a ser removido. Ela se assemelha a uma fila de pessoas em um banco ou supermercado: quem chega primeiro é atendido primeiro. A principal diferença de uma fila sequencial para outras filas é que ela é implementada usando um array ou um bloco contíguo de memória. Isso a torna eficiente para acesso, mas com a desvantagem de ter um tamanho fixo, que precisa ser definido no momento da criação.
 
 
-#Conhecimentos Adquiridos
+# Conhecimentos Adquiridos
 
 
 Ao desenvolver este projeto, foi possível aprofundar os seguintes conceitos:
